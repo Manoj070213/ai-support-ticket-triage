@@ -1,0 +1,19 @@
+# Never commit secrets
+*.env
+.env
+*_key*
+secrets*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output that gets regenerated
+classified.csv
+test.csv
