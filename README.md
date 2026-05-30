@@ -3,7 +3,7 @@
 An end-to-end AI pipeline that automatically classifies, prioritizes, and
 summarizes customer support tickets using a large language model.
 
-Built for BUAN 6399 (AI in Business). The project takes raw support tickets,
+Built as a personal Project. The project takes raw support tickets,
 sends each through Google's Gemini model to tag **category**, **urgency**, and
 **sentiment** plus a one-line **summary**, and visualizes the results.
 
